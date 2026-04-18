@@ -243,3 +243,4 @@ Recursive search (`grep -r`) searches through all files in a directory and its s
 - grep Manual: `man grep`
 - Regular Expressions: https://www.gnu.org/software/grep/manual/html_node/Regular-Expressions.html
 - Cyber Security Log Analysis: https://www.tecmint.com/grep-command-for-searching-in-linux/
+
