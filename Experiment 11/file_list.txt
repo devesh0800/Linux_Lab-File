@@ -1,0 +1,11 @@
+Desktop
+Documents
+Downloads
+file_list.txt
+inode_test.txt
+Music
+Pictures
+Public
+Templates
+Videos
+Fri Mar 27 02:13:29 PM IST 2026
